@@ -14,8 +14,7 @@
 文件结构
 --
 
-！[图片]()
-
+！[图片](https://github.com/przzl/getFile/blob/master/1.png)
 
 
 
